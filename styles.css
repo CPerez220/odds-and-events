@@ -1,0 +1,44 @@
+body {
+  background-color: blueviolet;
+}
+
+header {
+  font-size: xx-large;
+  text-align: center;
+  margin: 50px;
+  color:red
+}
+
+section {
+  text-align: center;
+}
+
+input {
+  background-color: blue;
+  width: 50%;
+  height: 5%;
+  color:aqua;
+}
+
+input:hover {
+  background-color: darkblue;
+}
+
+input::placeholder {
+  color: lightblue;
+}
+
+button {
+  background-color: green;
+  color:yellow;
+  width: 20%;
+  height: 4%;
+}
+
+button:hover {
+  background-color: yellowgreen;
+}
+
+h2 {
+  color:aqua;
+}
